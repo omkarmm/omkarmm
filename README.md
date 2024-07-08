@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/omkarmm)
 
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">An amateur full stack developer from India pursuing a master's in Computer Applications.</h3>
